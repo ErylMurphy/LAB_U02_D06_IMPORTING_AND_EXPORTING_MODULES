@@ -11,5 +11,9 @@
     "url": "git@git.generalassemb.ly:erylmurphy9/LAB_U02_D06_IMPORTING_AND_EXPORTING_MODULES.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "random-int": "^1.0.0",
+    "save": "^2.3.2"
+  }
 }
