@@ -1,0 +1,15 @@
+{
+  "name": "lab_u02_d06_importing_and_exporting_modules",
+  "version": "1.0.0",
+  "description": "Your task in this lab is to create a program that can pick a random student's name from our class while using the `require()` function.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@git.generalassemb.ly:erylmurphy9/LAB_U02_D06_IMPORTING_AND_EXPORTING_MODULES.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
